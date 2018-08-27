@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "amethix-clone",
-    "currentPage": "page7.html",
+    "currentPage": "machinelearning.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4426,7 +4426,7 @@
         }
       ]
     },
-    "page7.html": {
+    "machinelearning.html": {
       "settings": {
         "title": "machinelearning",
         "meta_descr": "Amethix Technologies healthcare and pharmaceutical data analytics services ",
